@@ -1,0 +1,10 @@
+0=Empty gesture	
+1=waving
+2=pushing and pulling upand down 
+3=pushing and pulling back and forth 
+4=drawing a zigzag 
+5=rotating fingersclockwise 
+6=double clicking 
+7=clenching fists
+8=goodbye geometry
+9=and lateral swing
